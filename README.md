@@ -33,7 +33,6 @@ The required packages are:
 - The `data_prep` function in the script handles outlier values and creates additional features for CLTV modeling
     - Outlier replacement with thresholds
     - Feature creation
-    -
 
 2. CLTV Modeling
 
